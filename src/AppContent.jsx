@@ -1,6 +1,13 @@
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 
+// TODO CRUD Create Read Update Delete
+// Create =  add a new TODO
+// Read = show the todos 👍
+// Update = modify an existing Todo
+// Delete = delete a todo
+// Bonus: filter todos using a search bar
+
 export function AppContent({ setCount, count }) {
   return (
     <>
