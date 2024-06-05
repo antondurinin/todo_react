@@ -1,5 +1,3 @@
-import { useState } from "react";
-import { v4 as uuidv4 } from "uuid";
 import { INITIAL_TODOS } from "./utils/constants";
 
 //load from storage// but now just demo
